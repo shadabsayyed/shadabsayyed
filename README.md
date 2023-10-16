@@ -18,9 +18,9 @@ I'm a passionate front-end developer with a love for creating beautiful and user
 
 Here are a few projects I'm proud of:
 
-1. 
-2. 
-3.
+1. Creative Innovations
+2. Appu Pro
+3. Digi sens 
 
 For more projects, check out my portfolio website
 
